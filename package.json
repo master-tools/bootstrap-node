@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-node",
+  "version": "1.0.0",
+  "description": "Bootstrap project with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "",
+    "start": ""
+  },
+  "keywords": [
+    "node",
+    "sentry",
+    "express"
+  ],
+  "author": "Alberto Iglesias Gallego",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  }
+}
